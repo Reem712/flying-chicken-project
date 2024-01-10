@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1704908672 source:c:\users\el-mohandes\desktop\new folder\flying_chicken\f_ch.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	<cstring>
+
+1697312942 c:\users\el-mohandes\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1697312941 c:\users\el-mohandes\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
